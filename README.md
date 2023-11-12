@@ -11,9 +11,9 @@
 - Formik (To process form data)
 - YUP (TO build Schema)
 
-## Working
+##Working
 - Has 2 pages Book and Author 
-- Each page have a Option to Perform Delete, Edit and Add new Book or Author
+-Each page have a Option to Perform Delete, Edit and Add new Book or Author
 - Data's will be shown in Form Handled by Formik
 - Added or Updated data will be Validated using YUP
 - once validated the new data will be updated
@@ -22,4 +22,4 @@
 ## Run Command
 `npm run dev`
 
--[Live Site]()
+-[Live Site](https://amazing-khapse-be6297.netlify.app/)
