@@ -3,7 +3,7 @@
 - Can perform CRUD operations
 
 ## Library used 
-- React + Vite
+- React + Vite 
 
 ## utilities
 - Tailwind CSS (For CSS)
