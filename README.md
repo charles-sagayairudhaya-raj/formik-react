@@ -22,4 +22,4 @@
 ## Run Command
 `npm run dev`
 
-- [Live Site](https://amazing-khapse-be6297.netlify.app/)
+- [Live Site](https://formik-application-8161.netlify.app/)
