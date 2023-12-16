@@ -1,5 +1,5 @@
 # Formik Validation
-- A Author and Book Details with Admin Control 
+- An Author and Book Details with Admin Control 
 - Can perform CRUD operations
 
 ## Library used 
